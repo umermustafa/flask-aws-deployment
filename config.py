@@ -9,3 +9,4 @@ class Config:
     CACHE_REDIS_DB = 0
     CACHE_REDIS_HOST = "host.docker.internal"
     CACHE_REDIS_URL = "redis://host.docker.internal:6379/0"
+
